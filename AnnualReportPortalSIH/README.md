@@ -1,11 +1,5 @@
 # 🎓 Institute Portal Project
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-## 🌐 Live Demo
-
-Check out the live version of the project: [Institute Portal Live Demo](https://aoteduproject.vercel.app/)
-
 
 This project is an advanced **Institute Portal** designed to integrate and streamline various academic, administrative, and management features into one robust platform. It includes sophisticated tools like:
 
@@ -35,14 +29,3 @@ The **Annual Report Portal** aggregates reports from all departments and allows 
 - 🏆 **Achievements and Awards**
 - 🎉 **Extracurricular Highlights**
 
-## 🧑‍💻 Team
-
-- **👑 Leader & Developer**: [Sonu Chowdhury](https://github.com/SonuuChowdhury) | [Portfolio](https://portfolio-sonuuchowdhury.vercel.app/)
-- **👨‍💻 Developer**: [Anit Sarkar](https://github.com/AnitSarkar123)
-- **🎨 Designer**: [Swaraj Das](https://github.com/swaraj-das)
-
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SonuuChowdhury/Institute-Site-AZ-BUG-BUSTERS.git
